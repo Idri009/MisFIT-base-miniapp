@@ -26,6 +26,7 @@ Connect a wallet (MetaMask/Coinbase/Rainbow), then:
 - Write contracts for check-ins and streaks.
 - ERC-1155/SBT badge minting for milestones.
 - Challenge enrollments with ETH transfers.
+- Farcaster
 - Leaderboard from on-chain events.
 
 ## Base Mini App
